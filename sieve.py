@@ -10,5 +10,4 @@ def sieve(n):
             print(i)
 
     print(p)
-            
-sieve(30)
+  
